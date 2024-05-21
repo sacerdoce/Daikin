@@ -1,2 +1,6 @@
         Daikin coil copper
 	50 employees
+	-5mm
+	-7mm
+	-light comercial
+	-Respack
